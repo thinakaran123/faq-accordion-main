@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://thinakaran123.github.io/faq-accordion-main/
 
 ### Built with
 
